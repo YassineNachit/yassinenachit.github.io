@@ -9,10 +9,10 @@ profile:
   image: yassine-nachit.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Lille<p>
+    <p>University of Lille</p>
     <p>302, Building M3</p> 
     <p>Cité Scientifique Campus</p>
-    <p> Villeneuve-d’Ascq, 59655<p>
+    <p> Villeneuve-d’Ascq, 59655</p>
     <p>France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

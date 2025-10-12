@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Lille</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Lille</a>. yassine[dot]nachit [at] univ-lille[dot]fr
 
 profile:
   align: right

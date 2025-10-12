@@ -11,8 +11,9 @@ profile:
   more_info: >
     <p>University of Lille<p>
     <p>302, Building M3</p> 
-    <p>Cité Scientifique Campus, 59655</p>
-    <p> Villeneuve-d’Ascq, France</p>
+    <p>Cité Scientifique Campus</p>
+    <p> Villeneuve-d’Ascq, 59655<p>
+    <p>France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

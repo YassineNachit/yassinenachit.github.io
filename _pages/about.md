@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.univ-lille.fr'>University of Lille</a>. <a href='https://math.univ-lille.fr/equipes-de-recherche/probabilites-et-statistique'>Paul Painlevé Laboratory</a>. yassine[dot]nachit [at] univ-lille[dot]fr
+subtitle: <a href='https://www.univ-lille.fr'>University of Lille</a>. <a href='https://math.univ-lille.fr/equipes-de-recherche/probabilites-et-statistique'>Paul Painlevé Laboratory</a>. yassine[dot]nachit[at]univ-lille[dot]fr
 
 profile:
   align: right

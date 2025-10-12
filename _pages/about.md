@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Lille</p>
-    <p>302, Building M3</p> 
+    <p>Office: 302, Building M3</p> 
     <p>Cité Scientifique Campus</p>
     <p> Villeneuve-d’Ascq, 59655</p>
     <p>France</p>

@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a mathematician working in the area of probability theory and stochastic analysis. Currently I am a PostDoc—2025 Seal of Excellence Laureate (Initiative d’excellence, Université de Lille; SoE-IE)—in the group of Prof. Ciprian Tudor.
+I am a mathematician working in the area of probability theory and stochastic analysis. Currently I am a PostDoc—<a href='https://initiative-excellence.univ-lille.fr/actualites/detail-actualite/laureats-seal-of-excellence-initiative-dexcellence-universite-de-lille'>2025 Seal of Excellence Laureate (Initiative d’excellence, Université de Lille; SoE-IE)</a>—in the group of Prof. <a href='https://sites.google.com/site/ciprianatudor/'>Ciprian Tudor</a>.
 
 Previously, I was a PostDoc in the groups of Prof.  Ivan Nourdin in University of Luxembourg.
 
-My research focuses on developing new tools in Malliavin calculus to investigate densities of non-Gaussian processes (such as Hermite processes and SDEs), Stein method, and local times. 
+My research focuses on developing new tools in Malliavin calculus to investigate densities of non-Gaussian processes, Stein method, and local times. 

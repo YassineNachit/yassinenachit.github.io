@@ -10,8 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>302, Building M3</p>
-    <p>University of Lille — Cité Scientifique Campus</p>
-    <p>59655 Villeneuve-d’Ascq, France</p>
+    <p>University of Lille<p> 
+    <p>Cité Scientifique Campus, 59655</p>
+    <p> Villeneuve-d’Ascq, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a mathematician working in the area of probability theory and stochastic analysis. Currently I am a postdoc—<a href='https://initiative-excellence.univ-lille.fr/actualites/detail-actualite/laureats-seal-of-excellence-initiative-dexcellence-universite-de-lille'>2025 Seal of Excellence Laureate (Initiative d’excellence, Université de Lille; SoE-IE)</a>—in the group of Prof. <a href='https://sites.google.com/site/ciprianatudor/'>Ciprian Tudor</a>.
+I am a mathematician working in the area of probability theory and stochastic analysis. Currently, I am a postdoc—<a href='https://initiative-excellence.univ-lille.fr/actualites/detail-actualite/laureats-seal-of-excellence-initiative-dexcellence-universite-de-lille'>2025 Seal of Excellence Laureate (Initiative d’excellence, Université de Lille; SoE-IE)</a>—in the group of Prof. <a href='https://sites.google.com/site/ciprianatudor/'>Ciprian Tudor</a>.
 
 Previously, I was a postdoc in the group of Prof. <a href='https://sites.google.com/site/ivannourdin/home'>Ivan Nourdin</a> at the <a href='https://www.uni.lu'>University of Luxembourg</a>.
 

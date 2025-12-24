@@ -1,11 +1,221 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Yassine NACHIT
-    - name: Position
-      value: Postdoctoral Researcher (Probability Theory)
-    - name: Affiliation
-      value: University of Lille (France)
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/main/schema.json
 
-    
+cv:
+  name: Yassine Nachit
+  headline: Postdoctoral Researcher (Probability Theory)
+  location: Lille, France
+
+  sections:
+    General Information:
+      - label: Full name
+        details: Yassine Nachit
+      - label: Position
+        details: Postdoctoral Researcher (Probability Theory)
+      - label: Affiliation
+        details: University of Lille, France
+      - label: Nationality
+        details: Moroccan
+      - label: Date of birth
+        details: "1991-08-20"
+
+    Summary:
+      - >-
+        Researcher in probability theory, focusing on generalizing results from Gaussian to
+        non-Gaussian settings. Currently a postdoctoral researcher in Prof. Ciprian Tudor’s group
+        (University of Lille), working mainly on Stein method and its applications to limit theorems
+        and asymptotic independence. Previously a postdoctoral researcher at the University of
+        Luxembourg with Prof. Ivan Nourdin; developed strong interest in machine learning through the
+        department’s active ML program.
+
+    Research Interests:
+      - bullet: (Malliavin) Stein method
+      - bullet: Gaussian / non-Gaussian probability theory
+      - bullet: Stochastic analysis
+      - bullet: Stochastic (partial) differential equations driven by Gaussian / non-Gaussian processes
+      - bullet: Malliavin calculus
+      - bullet: Sample-path properties
+      - bullet: Local times for non-Gaussian processes
+      - bullet: Besov regularity of stochastic processes
+      - bullet: Gaussian density estimates
+
+    Professional Experience:
+      - company: University of Lille
+        position: Postdoctoral Researcher
+        date: "2024–present"
+        location: Lille, France
+        highlights:
+          - "Supervisor: Ciprian Tudor."
+          - "Main topics: Stein method; limit theorems; asymptotic independence."
+      - company: University of Luxembourg
+        position: Postdoctoral Researcher
+        date: "2023–2024"
+        location: Luxembourg
+        highlights:
+          - "Supervisor: Ivan Nourdin."
+          - "Non-Gaussian stochastic analysis (Malliavin calculus) and related topics."
+          - "Developed strong interest in machine learning during this postdoc."
+
+    Education:
+      - institution: Cadi Ayyad University
+        area: Applied Mathematics (Analysis and Probability)
+        degree: PhD
+        date: "2016–2022"
+        location: Marrakesh, Morocco
+        highlights:
+          - "Thesis: Local times and Besov regularity of the solution to the stochastic heat equation."
+          - "Supervisor: Brahim Boufoussi."
+          - "Note: doctoral timeline included two medical leaves (each one year)."
+      - institution: Cadi Ayyad University
+        area: Probability and Statistics
+        degree: Master's
+        date: "2014–2016"
+        location: Marrakesh, Morocco
+        highlights:
+          - "Master’s courses: probability, stochastic calculus, Malliavin calculus, etc."
+          - "Thesis: Local times for Gaussian processes."
+          - "Supervisor: Brahim Boufoussi."
+      - institution: Cadi Ayyad University
+        area: Mathematics
+        degree: Bachelor
+        date: "2010–2013"
+        location: Marrakesh, Morocco
+      - institution: Marrakesh (High School)
+        area: Scientific Baccalaureate
+        degree: Baccalaureate
+        date: "2009–2010"
+        location: Marrakesh, Morocco
+
+    Publications:
+      - title: Malliavin smoothness of the Rosenblatt process
+        authors:
+          - Laurent Loosveldt
+          - "***Yassine Nachit***"
+          - Ivan Nourdin
+          - Ciprian Tudor
+        journal: Preprint
+        date: 2025
+
+      - title: Absolute continuity of finite-dimensional distributions of Hermite processes via Malliavin calculus
+        authors:
+          - Laurent Loosveldt
+          - "***Yassine Nachit***"
+          - Ivan Nourdin
+          - Ciprian Tudor
+        journal: Preprint
+        date: 2025
+
+      - title: Quartic variation of the solution to the semilinear stochastic heat equation: limit behavior and asymptotic independence with respect to the data
+        authors:
+          - Iulian Cîmpean
+          - "***Yassine Nachit***"
+          - Ciprian Tudor
+        journal: "Journal of Mathematical Analysis and Applications (to appear)"
+        date: 2025
+
+      - title: On the uniform Besov regularity of local times of general processes
+        authors:
+          - Brahim Boufoussi
+          - "***Yassine Nachit***"
+        journal: "Journal of Fractal Geometry (to appear)"
+        date: 2025
+        url: https://arxiv.org/abs/2110.10227
+
+      - title: Local times for systems of non-linear stochastic heat equations
+        authors:
+          - Brahim Boufoussi
+          - "***Yassine Nachit***"
+        journal: "Stochastics and Partial Differential Equations: Analysis and Computations"
+        date: 2022
+        doi: 10.1007/s40072-021-00231-9
+        url: https://doi.org/10.1007/s40072-021-00231-9
+
+      - title: On the Besov regularity of the bifractional Brownian motion
+        authors:
+          - Brahim Boufoussi
+          - "***Yassine Nachit***"
+        journal: "Probability and Mathematical Statistics"
+        date: 2021
+        doi: 10.37190/0208-4147.41.2.6
+        url: https://doi.org/10.37190/0208-4147.41.2.6
+
+      - title: On Besov regularity and local time of the stochastic heat equation
+        authors:
+          - Brahim Boufoussi
+          - "***Yassine Nachit***"
+        journal: "Stochastics: An International Journal of Probability and Stochastic Processes"
+        date: 2023
+        doi: 10.1080/17442508.2022.2164696
+        url: https://doi.org/10.1080/17442508.2022.2164696
+
+    Teaching:
+      - name: Lecturer — Mathematics Software (Bachelor)
+        date: "Summer 2023"
+        location: University of Luxembourg
+      - name: Lecturer — Linear Algebra 2 (Bachelor)
+        date: "Summer 2023"
+        location: University of Luxembourg
+      - name: Lecturer — Optimization and Numerical Probability (Master in Data Science)
+        date: "Winter 2024"
+        location: University of Luxembourg
+      - name: Tutor — Optimization and Numerical Probability (Master in Data Science)
+        date: "Winter 2024"
+        location: University of Luxembourg
+      - name: Lecturer — Mathematics Software (Bachelor)
+        date: "Summer 2024"
+        location: University of Luxembourg
+
+    Supervision:
+      - bullet: "Supervisor of a Bachelor thesis (University of Luxembourg): Illustration of the Central Limit Theorem and simulations of random variables in R."
+
+    Talks (Conferences):
+      - bullet: "Plenary speaker — Journées RT² ANAIS-MAIAGES 2025 (Université Bretagne Sud, Vannes, France, Apr 2–4, 2025): Local times for systems of non-linear stochastic heat equations."
+      - bullet: "Fractional Brownian Motion and its Applications (University of Luxembourg, Apr 23–24, 2024): Densities for solutions of SDEs driven by non-Gaussian processes."
+      - bullet: "Stochastic Dynamics and Stochastic Equations (EPFL, Lausanne, Mar 25–27, 2024): Malliavin calculus for SDEs driven by non-Gaussian processes."
+      - bullet: "Marrakesh International Workshop on Random Fractals and Markov Processes (Marrakesh, Nov 21–26, 2022): Local times for systems of non-linear stochastic heat equations."
+      - bullet: "NSF/CBMS Conference: Gaussian Random Fields, Fractals, SPDEs, and Extremes (UAH, Aug 2–6, 2021): Local time for stochastic heat equation."
+      - bullet: "ICRAMCS 2021 (Casablanca, Mar 26–27, 2021): Local time for stochastic heat equation."
+      - bullet: "SM2A Congress (Beni Mellal, Nov 7–9, 2019): On the local time of the solution of the non-linear stochastic heat equation."
+
+    Talks (Seminars):
+      - bullet: "University of Lille, Probability and Statistics Seminar (Nov 12, 2024): Densities for solutions of SDEs driven by non-Gaussian processes."
+      - bullet: "University of Luxembourg, Probability and Statistics Seminar (Oct 20, 2022): Local times and Besov regularity of the solution to the stochastic heat equation."
+      - bullet: "Cadi Ayyad University, Faculty of Sciences Semlalia (Mar 5, 2020): On the Besov regularity of some processes."
+      - bullet: "Cadi Ayyad University, Faculty of Sciences Semlalia (Dec 1, 2016): Walsh’s stochastic integral and stochastic heat equation."
+
+    Participation (Conferences):
+      - bullet: "Luxembourg Workshop in Stochastic Analysis (2nd edition), University of Luxembourg, Feb 10–12, 2025."
+      - bullet: "Luxembourg Workshop in Stochastic Analysis, University of Luxembourg, Feb 15–17, 2023."
+      - bullet: "International conference on Malliavin calculus and related topics, University of Luxembourg, Jun 12–16, 2023."
+      - bullet: "Probability and Statistics Day, National School of Applied Sciences, Cadi Ayyad University, Sep 27, 2016."
+
+    Participation (Research Schools):
+      - bullet: "Ecole Mathématique Africaine (EMA2015), Oct 12–23, 2015 — Théorie générale des processus stochastiques et Introduction au calcul de Malliavin."
+      - bullet: "Research School on Stochastic Analysis and its Applications (SSAA’2017), Apr 3–13, 2017."
+
+    Grants and Awards:
+      - bullet: "Seal of Excellence (88%) — MSCA-PF-2023 High Quality Project (101155495 SPP HS-RRF), European Commission."
+      - bullet: "Seal of Excellence Laureate — Initiative d’excellence, Université de Lille (SoE-IE), 2025."
+
+    Service:
+      - bullet: "Referee for: Statistics & Probability Letters."
+
+    Research Visits:
+      - name: University of Luxembourg
+        date: "Oct 2022"
+        location: Luxembourg
+        summary: "Research visit (1 week), host: Ivan Nourdin."
+      - name: University of Liège
+        date: "Jan 26–28, 2025"
+        location: Liège, Belgium
+        summary: "Research visit, host: Laurent Loosveldt."
+
+    Academic Projects:
+      - bullet: "Local times for Gaussian processes: existence of local times, joint continuity of local times, Hausdorff dimension of level sets."
+
+    Skills:
+      - label: Mathematical
+        details: "Probability and statistics; analysis; algebra; financial mathematics; stochastic analysis; Malliavin calculus"
+      - label: Programming
+        details: "C; C++; R; Scilab; LaTeX; Python; SageMath"
+      - label: Languages
+        details: "Arabic; French; English"

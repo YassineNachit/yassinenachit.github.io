@@ -71,7 +71,7 @@
       year: 2010 – 2013
     - title: Scientific Baccalaureate
       institution: Marrakesh, Morocco
-      year: 2009 – 2010
+      #year: 2009 – 2010
 
 - title: Research Record
   type: nested_list

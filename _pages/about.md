@@ -36,4 +36,4 @@ I am a mathematician working in the area of probability theory and stochastic an
 
 Previously, I was a postdoc in the group of Prof. <a href='https://sites.google.com/site/ivannourdin/home'>Ivan Nourdin</a> at the <a href='https://www.uni.lu'>University of Luxembourg</a>.
 
-My research focuses on developing new tools in Malliavin calculus to investigate densities of non-Gaussian processes, Stein method, and local times. 
+My research focuses on developing new tools in Malliavin calculus to investigate densities of non-Gaussian processes, Stein method, and local times.

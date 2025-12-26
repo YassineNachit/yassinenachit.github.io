@@ -7,6 +7,22 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## University of Luxembourg
 
-Organize your courses by years, topics, or universities, however you like!
+### Winter Semester 2024
+- **Optimization and Numerical Probability** — *Lecturer* (Master in Data Science)  
+  Materials: [Slides](#) · [Tutorials](#) · [Assignments](#)
+
+- **Optimization and Numerical Probability** — *Tutor* (Master in Data Science)  
+  Materials: [Exercise sheets](#) · [Solutions](#)
+
+### Summer Semester 2024
+- **Mathematics Software** — *Lecturer* (Bachelor)  
+  Materials: [Syllabus](#) · [Labs](#) · [Projects](#)
+
+### Summer Semester 2023
+- **Mathematics Software** — *Lecturer* (Bachelor)  
+  Materials: [Syllabus](#) · [Labs](#)
+
+- **Linear Algebra 2** — *Lecturer* (Bachelor)  
+  Materials: [Syllabus](#) · [Problem sets](#)

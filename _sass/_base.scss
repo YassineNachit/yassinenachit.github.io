@@ -1422,4 +1422,9 @@ figure.cover {
   a.cover-link:hover {
     color: #23212d !important;
   }
+
+  /* Hide navbar search button */
+#search-toggle {
+  display: none !important;
+  }
 }

@@ -2,21 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-# description: Materials for courses you taught. Replace this text with your description.
+description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
+calendar: true
 ---
 
+This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
 
-## Winter Semester 2024
-- **Optimization and Numerical Probability** — *Lecturer* (Master in Data Science, University of Luxembourg)  
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
-- **Optimization and Numerical Probability** — *Tutor* (Master in Data Science, University of Luxembourg)  
-
-## Summer Semester 2024
-- **Mathematics Software** — *Lecturer* (Bachelor, University of Luxembourg)  
-
-## Summer Semester 2023
-- **Mathematics Software** — *Lecturer* (Bachelor, University of Luxembourg)  
-
-- **Linear Algebra 2** — *Lecturer* (Bachelor, University of Luxembourg)  
+{% include courses.liquid %}

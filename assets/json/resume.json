@@ -1,18 +1,10 @@
 {
   "basics": {
-    "name": "Yassine Nachithjhhjgjhgjhgj",
+    "name": "Yassine Nachit",
     "label": "Postdoctoral Researcher (Probability Theory)",
     "image": "",
-    "email": "YOUR_EMAIL_HERE",
-    "phone": "YOUR_PHONE_HERE",
-    "url": "YOUR_WEBSITE_HERE",
-    "summary": "I am a researcher in probability theory, focusing on generalizing some probability aspects from Gaussian to non-Gaussian settings. I am currently a postdoctoral researcher in Professor Ciprian Tudor group at the University of Lille, working mainly on Stein method and its applications to limit theorems and asymptotic independence. My interest in the Stein method developed while working with my former supervisor, Professor Ivan Nourdin, one of the creators of Malliavin-Stein method. I also developed a strong interest in machine learning during the postdoc at the University of Luxembourg.",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Lille",
-      "countryCode": "FR",
-      "region": ""
+    "email": "yassine.nachit.fssm@gmail.com",
+    "summary": "I am a researcher in probability theory, focusing on generalizing some probability aspects from Gaussian to non-Gaussian settings. I am currently a postdoctoral researcher in Professor Ciprian Tudor group at the University of Lille, working mainly on Stein method and its applications to limit theorems and asymptotic independence. My interest in the Stein method developed while working with my former supervisor, Professor Ivan Nourdin, one of the creators of Malliavin-Stein method. I also developed a strong interest in machine learning during the postdoc at the University of Luxembourg."
     },
     "profiles": [
       {

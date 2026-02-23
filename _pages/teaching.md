@@ -8,4 +8,4 @@ nav_order: 6
 ---
 
 ## Winter Semester 2024
- Optimization and Numerical Probability Lecturer (Master in Data Science, University of Luxembourg)
+- Optimization and Numerical Probability — *Lecturer* (Master in Data Science, University of Luxembourg)

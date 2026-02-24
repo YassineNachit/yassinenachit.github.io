@@ -15,25 +15,25 @@
     ]
   },
   "work": [
-    {
-      "name": "University of Lille",
-      "position": "Postdoctoral Researcher",
-      "url": "",
-      "startDate": "2024-01-01",
-      "endDate": "",
-      "summary": "Postdoctoral researcher in Professor Ciprian Tudor's group, working mainly on Stein method and its applications to limit theorems and asymptotic independence.",
-      "highlights": ["Stein method", "Limit theorems", "Asymptotic independence"]
-    },
-    {
-      "name": "University of Luxembourg",
-      "position": "Postdoctoral Researcher",
-      "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2024-01-01",
-      "summary": "Postdoctoral researcher with Professor Ivan Nourdin. Work related to Malliavin calculus / non-Gaussian stochastic analysis; developed strong interest in machine learning during this period.",
-      "highlights": ["Malliavin calculus", "Non-Gaussian stochastic analysis", "Machine learning interest"]
-    }
-  ],
+  {
+    "name": "University of Lille",
+    "position": "Postdoctoral Researcher",
+    "url": null,
+    "startDate": "2024-01-01",
+    "endDate": null,
+    "summary": "Postdoctoral researcher in Professor Ciprian Tudor's group, working mainly on Stein method and its applications to limit theorems and asymptotic independence.",
+    "highlights": ["Stein method", "Limit theorems", "Asymptotic independence"]
+  },
+  {
+    "name": "University of Luxembourg",
+    "position": "Postdoctoral Researcher",
+    "url": null,
+    "startDate": "2023-01-01",
+    "endDate": "2024-01-01",
+    "summary": "Postdoctoral researcher with Professor Ivan Nourdin. Work related to Malliavin calculus / non-Gaussian stochastic analysis; developed strong interest in machine learning during this period.",
+    "highlights": ["Malliavin calculus", "Non-Gaussian stochastic analysis", "Machine learning interest"]
+  }
+],
   "volunteer": [],
   "education": [
     {

@@ -7,10 +7,6 @@
     "name": "Yassine Nachit",
     "label": "Postdoctoral researcher",
     "email": "yassine.nachit@univ-lille.fr",
-    "x_emails": [
-      "yassine.nachit@univ-lille.fr",
-      "yassine.nachit.fssm@gmail.com"
-    ],
     "url": "https://yassinenachit.github.io",
     "summary": "I am a researcher in probability theory, focusing on generalizing some probability aspects from Gaussian to non-Gaussian settings. I am currently a postdoctoral researcher in Professor Ciprian Tudor's group at the University of Lille, working mainly on developing new tools in Malliavin calculus to investigate densities of non-Gaussian processes, Stein method, and local times.",
     "location": {

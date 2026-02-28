@@ -28,58 +28,6 @@
       "summary": "Supervisor: Ivan Nourdin."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "University of Lille",
-      "position": "Teaching assistant",
-      "url": null,
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Probability tutorials (Bachelor level) and lectures/tutorials in Itô calculus for the MFCA Master’s program.",
-      "highlights": [
-        "Probability tutorials",
-        "Itô calculus (MFCA Master’s program)"
-      ]
-    },
-    {
-      "organization": "University of Luxembourg",
-      "position": "Lecturer / Tutor",
-      "url": null,
-      "startDate": "2023-06-01",
-      "endDate": "2024-08-31",
-      "summary": "Teaching duties during postdoctoral period.",
-      "highlights": [
-        "Mathematics Software (Bachelor’s) — Lecturer (Summer 2023, Summer 2024)",
-        "Linear Algebra 2 (Bachelor’s) — Lecturer (Summer 2023)",
-        "Optimization and Numerical Probability (Master in Data Science) — Lecturer & Tutor (Winter 2024)"
-      ]
-    },
-    {
-      "organization": "University of Luxembourg",
-      "position": "Bachelor’s thesis supervisor",
-      "url": null,
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
-      "summary": "Supervision: Illustration of the Central Limit Theorem and simulations of random variables in R.",
-      "highlights": [
-        "Supervision",
-        "R simulations",
-        "Central Limit Theorem"
-      ]
-    },
-    {
-      "organization": "Journals",
-      "position": "Referee",
-      "url": null,
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Referee for Statistics & Probability Letters and Journal of Fractal Geometry.",
-      "highlights": [
-        "Statistics & Probability Letters",
-        "Journal of Fractal Geometry"
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Cadi Ayyad University",

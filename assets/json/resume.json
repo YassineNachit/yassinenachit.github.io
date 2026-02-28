@@ -147,33 +147,6 @@
       "summary": null
     }
   ],
-  "skills": [
-    {
-      "name": "Mathematical",
-      "level": "",
-      "keywords": [
-        "Probability and statistics",
-        "Analysis",
-        "Algebra",
-        "Financial mathematics",
-        "Stochastic analysis",
-        "Malliavin calculus"
-      ]
-    },
-    {
-      "name": "Programming",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "R",
-        "Scilab",
-        "LaTeX",
-        "Python",
-        "SageMath"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Arabic",

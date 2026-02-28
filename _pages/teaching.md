@@ -5,6 +5,8 @@ title: teaching
 description: 
 nav: true
 nav_order: 6
+_styles: |
+  .post-header .post-title { color: var(--global-theme-color); }
 ---
 
 ## Winter Semester 2024
